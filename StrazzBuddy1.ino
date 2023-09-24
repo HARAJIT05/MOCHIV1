@@ -14,9 +14,9 @@ void setup() {
   display.setTextSize(2);
   display.setTextColor(WHITE);
   display.setCursor(28, 20);
-  display.println("STRAZZ");
+  display.println("DASAI");
   display.setCursor(35, 40);
-  display.println("TUNED");
+  display.println("MOCHI");
   display.display();
   delay(2000);
   display.clearDisplay();
